@@ -1,0 +1,8 @@
+StorageCarcassSize=20
+StorageEngineSize=20
+StorageAccessoriesSize=30
+StorageCarSize=100
+AccessoriesDelivery=5
+Workers=2
+Trader=4
+LogSale=1
